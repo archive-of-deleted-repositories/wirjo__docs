@@ -11,7 +11,7 @@
 ```javascript
 // Solidity Interface
 
-interface IyDAI {
+interface IyUSDC {
 
   function recommend() external view returns (uint256);
 
